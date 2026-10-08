@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "AchouIF",
+    "slug": "AchouIF",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
